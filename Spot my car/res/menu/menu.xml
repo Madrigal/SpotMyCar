@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/connect_device"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/secure_connect"/>
+    <item
+        android:id="@+id/GPS"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="@string/gps"/>
+    <item
+        android:id="@+id/discoverable"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/discoverable"/>
+
+</menu>
