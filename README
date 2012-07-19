@@ -1,0 +1,10 @@
+A school project for ITESO.
+It's not yet ready for use, but it basically uses two Android features, GPS and Bluetooth, 
+to try to remember the location of the user's car.
+
+It connects to another bluetooth device in the car and checks the connection whith it. When it disconnects, the GPS
+trie to get the users location for about a minute and stores it. When the user wants to return to his car, he presses
+a button and sees on the map 
+
+1) where he is
+2) where his car is
